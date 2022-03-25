@@ -83,7 +83,7 @@ module.exports = {
       },
       {
         name: "Blog",
-        url: "https://eraldkuci.dev/blog/",
+        url: "https://hrcg.dev/blog/",
       },
       {
         name: "Contact",
