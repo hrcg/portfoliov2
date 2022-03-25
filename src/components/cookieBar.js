@@ -77,23 +77,6 @@ const CookieBar = () => {
   }, [isIntroDone])
 
   if (!isIntroDone) return null
-
-  return (
-    <StyledCookieBar initial={{ opacity: 0, y: 20 }} animate={controls}>
-      <CookieConsent
-        cookieName="gatsby-gdpr-google-analytics"
-        buttonId="confirm"
-        buttonText="Accept"
-        declineButtonId="decline"
-        declineButtonText="Decline"
-        enableDeclineButton={true}
-        disableStyles={true}
-        onAccept={() => initializeAndTrack(location)}
-      >
-        <p className="cookieMessage">This website uses cookies 🍪 </p>
-      </CookieConsent>
-    </StyledCookieBar>
-  )
 }
 
 export default CookieBar
