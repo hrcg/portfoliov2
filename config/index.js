@@ -99,7 +99,7 @@ module.exports = {
   },
   footerLinks: [
     {
-      name: "Made with GatsbyJS & deployed on Netlify",
+      name: "Made with GatsbyJS",
       url: "#",
     },
   ],
