@@ -100,7 +100,7 @@ module.exports = {
   footerLinks: [
     {
       name: "Made with GatsbyJS",
-      url: "#",
+      url: "https://www.gatsbyjs.com/",
     },
   ],
 }
