@@ -5,7 +5,7 @@ module.exports = {
   siteShortTitle: "ek.", // Used as logo text in header, footer, and splash screen
   siteDescription:
     "",
-  siteUrl: "https://eraldkuci.dev/",
+  siteUrl: "https://kuci.dev/",
   siteLanguage: "en_US",
   siteIcon: "content/favicon.png", // Relative to gatsby-config file
   seoTitleSuffix: "Erald Kuci", // SEO title syntax will be e.g. "Imprint - {seoTitleSuffix}"
@@ -66,7 +66,7 @@ module.exports = {
     },
     {
       name: "Mail",
-      url: "mailto:aldikuci@gmail.com",
+      url: "mailto:erald@kuci.dev",
     },
   ],
 
@@ -75,7 +75,7 @@ module.exports = {
     menu: [
       {
         name: "Home",
-        url: "https://eraldkuci.dev",
+        url: "https://kuci.dev",
       },
       {
         name: "Projects",
