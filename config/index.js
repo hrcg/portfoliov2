@@ -82,10 +82,6 @@ module.exports = {
         url: "/#projects",
       },
       {
-        name: "Blog",
-        url: "https://hrcg.dev/",
-      },
-      {
         name: "Contact",
         url: "/#contact",
       },
